@@ -1,4 +1,5 @@
 1. QSVM
+```
 |
 ├── California Housing using QSVM
 ├── Iris using Feature Map
@@ -7,5 +8,6 @@
 ├── PD using QSVC
 ├── QSVC on Diabetes
 ├── QSVC on Wine Dataset
+```
 
 2. VQC
