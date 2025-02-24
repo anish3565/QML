@@ -1,1 +1,2 @@
-# QML
+1. QSVM
+2. VQC
