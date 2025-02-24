@@ -1,6 +1,5 @@
 1. QSVM
 ```
-|
 ├── California Housing using QSVM
 ├── Iris using Feature Map
 ├── PD using Feature Maps and 3 different kernels
